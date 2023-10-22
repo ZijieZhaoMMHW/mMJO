@@ -1,7 +1,7 @@
 # mMJO
 An under-development MATLAB module to analyse the Madden-Julian Oscillation.
 
-Currently include following contens:
+Currently include following contents:
 
 [`rmm.m`](https://github.com/ZijieZhaoMMHW/mMJO/blob/main/rmm.m): a function to calculate the RMM index based on Wheeler and Hendon (2004).
 
